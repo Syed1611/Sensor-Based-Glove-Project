@@ -27,5 +27,6 @@ Ultrasonic Sensor (HC-SR04) Connections:
 - Sound Output: Depending on the distance, the Arduino triggers the buzzer to produce different sounds.
 
 ## Usage
-Wear the glove and move your hand towards an object.
-The buzzer will produce different sounds based on the distance from the object.
+- Setup: Connect the sensor to the Arduino board and attach the sensor to the center of the palm on the glove.
+- Upload Code: Upload the provided code to the Arduino board.
+- Run Java/Python Code: Run the Java or Python code on your computer to start receiving sensor data.
